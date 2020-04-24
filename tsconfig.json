@@ -1,0 +1,36 @@
+{
+  "compilerOptions": {
+      "lib": [
+        "es2016", "dom"
+      ],
+      "typeRoots": [
+        "./node_modules/@types"
+      ],
+      "module": "commonjs",
+      "esModuleInterop": true,
+      "target": "es6",
+      "noImplicitAny": false,
+      "moduleResolution": "node",
+      "emitDecoratorMetadata": true,
+      "experimentalDecorators": true,
+      "sourceMap": true,
+      "declaration": false,
+      "allowSyntheticDefaultImports": true,
+      "outDir": "dist",
+      "baseUrl": ".",
+      "paths": {
+          "*": [
+              "node_modules/*"
+          ]
+      }
+  },
+  "include": [
+      "src/**/*"
+  ],
+  "exclude": [
+    "node_modules",
+    "./public",
+    "dist",
+    "test"
+  ]
+}

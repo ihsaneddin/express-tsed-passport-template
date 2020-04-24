@@ -1,0 +1,18 @@
+[
+  {
+    "_id": "583538e9605c9e261eb80042",
+    "name": "Jarjit Sing",
+    "avatar": "https://api.adorable.io/avatars/160/jarjit@mail.com.png",
+    "email": "jarjit@mail.com",
+    "password": "123456",
+    "token": null
+  },
+  {
+    "_id": "583538ea448f69d5dfa9dab0",
+    "name": "Ismail Bin Mail",
+    "avatar": "https://api.adorable.io/avatars/160/ismail@mail.com.png",
+    "email": "ismail@mail.com",
+    "password": "123456",
+     "token": null
+  }
+]
